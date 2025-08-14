@@ -1,4 +1,7 @@
-## Project Structure
+## Dashboard Overview and Project Structure
+
+<img width="922" height="290" alt="Fianance Welcome Picture" src="https://github.com/user-attachments/assets/c81b225d-a756-4fa3-99e3-392081235820" />
+
 - Excel-Files/: Excel dashboards and analysis
 - PPT-Slides/: Presentation slides summarizing findings
 - CSV-File/: Project Raw Data
