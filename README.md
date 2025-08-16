@@ -1,6 +1,6 @@
 ## Dashboard Overview and Project Structure
 
-<img width="922" height="290" alt="Fianance Welcome Picture" src="https://github.com/user-attachments/assets/c81b225d-a756-4fa3-99e3-392081235820" />
+<img width="922" height="286" alt="Screenshot 2025-08-16 201152" src="https://github.com/user-attachments/assets/e1df78ed-cd0c-4d03-b4b6-e107910a1d37" />
 
 ---
 
