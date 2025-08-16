@@ -2,10 +2,15 @@
 
 <img width="922" height="290" alt="Fianance Welcome Picture" src="https://github.com/user-attachments/assets/c81b225d-a756-4fa3-99e3-392081235820" />
 
-- Excel-Files/: Excel dashboards and analysis
-- PPT-Slides/: Presentation slides summarizing findings
+---
+
+## Project Structure
+- Excel-Files/: Excel Dashboards and Analysis
+- PPT-Slides/: Presentation Slides Summarizing Findings
 - CSV-File/: Project Raw Data
 - README.md: Project overview
+
+---
 
 ## Tools & Skills
 - Excel (Pivot Tables, Pivot Charts, Conditional Formatting, Excel Formulas, Cell Linking and so on)
